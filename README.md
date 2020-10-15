@@ -1,7 +1,7 @@
 # hello-world
 My first repository on GitHub containing starting projects
 
-Hello world, an introduction my name is Wouter and i'm 26 i live in the Netherlands. This is my first file one GitHub and i hope many will follow.
+Hello world, an introduction my name is Wouter and i'm 26 i live in the Netherlands. This is my first file on GitHub and i hope many will follow.
 I finally got the courage to persue love for creating, improving and solving issues.
 
 Here's my story
